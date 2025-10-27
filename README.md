@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to My Coding Lab
 
-<!--
-**JamaldeenS4/JamaldeenS4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my **sandbox account** — a place for small projects, class exercises, and experiments while I learn software engineering.
 
-Here are some ideas to get you started:
+### 🧠 Currently Learning
+- **Python** – fundamentals, scripting, and building small applications  
+- **Java** – fundamentals and object-oriented programming  
+- **Backend Development** – building APIs and server-side logic  
+- **Full-Stack Pathway** – combining front-end, backend, and databases  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Repositories
+Most projects here are for practice and personal growth.  
+My main professional GitHub (coming soon) will contain polished portfolio projects.
+
+
